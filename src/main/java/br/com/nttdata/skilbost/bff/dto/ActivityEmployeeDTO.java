@@ -7,6 +7,7 @@ import java.util.UUID;
 
 @Data
 public class ActivityEmployeeDTO {
+    private UUID id;
     private UUID activityId;
     private UUID employeeId;
     private String description;

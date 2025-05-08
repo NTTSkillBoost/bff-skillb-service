@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dfbdf84-9e94-4bb6-9418-d4624b4f38bf" name="Changes" comment="" />
+    <list default="true" id="2dfbdf84-9e94-4bb6-9418-d4624b4f38bf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/nttdata/skilbost/bff/dto/ActivityDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/nttdata/skilbost/bff/dto/ActivityDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/nttdata/skilbost/bff/dto/ActivityEmployeeDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/nttdata/skilbost/bff/dto/ActivityEmployeeDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/nttdata/skilbost/bff/dto/CourseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/nttdata/skilbost/bff/dto/CourseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/nttdata/skilbost/bff/dto/EmployeeDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/nttdata/skilbost/bff/dto/EmployeeDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/nttdata/skilbost/bff/dto/EmployeeKnowledgeAdvisorDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/nttdata/skilbost/bff/dto/EmployeeKnowledgeAdvisorDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/nttdata/skilbost/bff/dto/EmployeeRoleDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/nttdata/skilbost/bff/dto/EmployeeRoleDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/nttdata/skilbost/bff/dto/EnrollmentDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/nttdata/skilbost/bff/dto/EnrollmentDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/nttdata/skilbost/bff/dto/ActivityDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/nttdata/skilbost/bff/dto/ActivityDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/nttdata/skilbost/bff/dto/ActivityEmployeeDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/nttdata/skilbost/bff/dto/ActivityEmployeeDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/nttdata/skilbost/bff/dto/CourseDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/nttdata/skilbost/bff/dto/CourseDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/nttdata/skilbost/bff/dto/EmployeeDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/nttdata/skilbost/bff/dto/EmployeeDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/nttdata/skilbost/bff/dto/EmployeeKnowledgeAdvisorDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/nttdata/skilbost/bff/dto/EmployeeKnowledgeAdvisorDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/nttdata/skilbost/bff/dto/EmployeeRoleDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/nttdata/skilbost/bff/dto/EmployeeRoleDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/nttdata/skilbost/bff/dto/EnrollmentDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/nttdata/skilbost/bff/dto/EnrollmentDTO.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,12 +42,12 @@
     &quot;assignee&quot;: &quot;rogeriofontes&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/bitsincloud-microervices/bff-service.git&quot;,
-    &quot;accountId&quot;: &quot;27d18cbd-b48e-476e-90c1-38a5407914f5&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NTTSkillBoost/bff-skillb-service.git",
+    "accountId": "27d18cbd-b48e-476e-90c1-38a5407914f5"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -111,5 +127,16 @@
       <updated>1746640398293</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/nttdata/skilbost/bff/service/EmployeeRoleService.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

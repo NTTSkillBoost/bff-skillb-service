@@ -7,6 +7,7 @@ import java.util.UUID;
 
 @Data
 public class EnrollmentDTO {
+    private UUID id;
     private UUID courseId;
     private UUID studentId;
     private LocalDate enrollmentDate;

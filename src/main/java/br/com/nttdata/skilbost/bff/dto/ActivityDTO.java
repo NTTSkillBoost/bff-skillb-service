@@ -8,6 +8,7 @@ import java.util.UUID;
 
 @Data
 public class ActivityDTO {
+    private UUID id;
     private String name;
     private UUID courseId;
     private String description;
